@@ -25,7 +25,7 @@ GROUP BY
     customers,
     cus.city,
     ord.order_date,
-    pro.product_name,
+    pro.product_name,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
     cat.category_name,
     prb.brand_name,
     sto.store_name,
