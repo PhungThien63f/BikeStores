@@ -1,5 +1,5 @@
 ## Introduction
-- Use SQL language to write a query from a sample dataset taken from an SQL tutorial to create a .csv dataset file, then use the dataset to build a dashboard using Tableau Public.
+- Use SQL language to write a query from a sample dataset taken from an SQL tutorial to create a .csv dataset file, then use the dataset to build a dashboard using Tableau Public and Power BI.
 - create_objects.sql, drop.sql, production.sql, sales.sql: using file available in web tutorial
 - result.sql: write query to connect all tables
 
