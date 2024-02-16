@@ -16,3 +16,5 @@ Data Source: [sqlservertutorial](https://www.sqlservertutorial.net/load-sample-d
 
 - Buid dashboard with tableau: [tableaupublic](https://public.tableau.com/app/profile/pham.phung/viz/BikeStores_16863808943840/Dashboard1)
 ![markdown](https://raw.githubusercontent.com/PhungThien63f/BikeStores/main/images/BikeStore%20-%20%203.png)
+
+- Buid dashboard with Power BI 
