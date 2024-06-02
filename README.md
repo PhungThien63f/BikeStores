@@ -4,7 +4,8 @@
 - result.sql: write query to connect all tables
 
 ## 2. Project information
-###  2.1 Objective: Analyze the business situation of BikeStore and its upcoming business plan and rewards program.
+###  2.1 Objective:
+-  Analyze the business situation of BikeStore and its upcoming business plan and rewards program.
 Data Source: [sqlservertutorial](https://www.sqlservertutorial.net/load-sample-database/)
 
 - Writting query
@@ -22,4 +23,6 @@ Data Source: [sqlservertutorial](https://www.sqlservertutorial.net/load-sample-d
 
 ### 2.2 Conlusion:
 - From the constructed dashboard, we can grasp the business situation of the store dealing in bicycles over the past three years, 2016, 2017, and 2018.
+
+### 2.3 Next steps
 
