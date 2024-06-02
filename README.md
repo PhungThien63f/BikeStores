@@ -1,10 +1,10 @@
-## Introduction
+## 1. Introduction
 - Use SQL language to write a query from a sample dataset taken from an SQL tutorial to create a .csv dataset file, then use the dataset to build a dashboard using Tableau Public and Power BI.
 - create_objects.sql, drop.sql, production.sql, sales.sql: using file available in web tutorial
 - result.sql: write query to connect all tables
 
-## Project information
-###  Objective: Analyze the business situation of BikeStore and its upcoming business plan and rewards program.
+## 2. Project information
+###  2.1 Objective: Analyze the business situation of BikeStore and its upcoming business plan and rewards program.
 Data Source: [sqlservertutorial](https://www.sqlservertutorial.net/load-sample-database/)
 
 - Writting query
