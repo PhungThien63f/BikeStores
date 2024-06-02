@@ -22,8 +22,3 @@ Data Source: [sqlservertutorial](https://www.sqlservertutorial.net/load-sample-d
 
 - Buid dashboard with Power BI ![powerbi](https://github.com/PhungThien63f/BikeStores/blob/main/images/BikeStore-4.png)
 
-### 2.3 Conlusion:
-- From the constructed dashboard, we can grasp the business situation of the store dealing in bicycles over the past three years, 2016, 2017, and 2018.
-
-### 2.4 Next steps
-
