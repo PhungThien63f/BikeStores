@@ -6,6 +6,7 @@
 ## 2. Project information
 ###  2.1 Objective:
 -  Analyze the business situation of BikeStore and its upcoming business plan and rewards program.
+### 2.2 Project steps
 Data Source: [sqlservertutorial](https://www.sqlservertutorial.net/load-sample-database/)
 
 - Writting query
