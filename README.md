@@ -17,6 +17,10 @@ Data Source: [sqlservertutorial](https://www.sqlservertutorial.net/load-sample-d
 ![markdown](https://raw.githubusercontent.com/PhungThien63f/BikeStores/main/images/BikeStore%20-%202.png)
 
 
+- Use the Python language to explore information dataset.
+  (https://github.com/PhungThien63f/BikeStores/blob/main/BikeStores.ipynb)
+
+
 - Buid dashboard with tableau: [tableaupublic](https://public.tableau.com/app/profile/pham.phung/viz/BikeStores_16863808943840/Dashboard1)
 ![markdown](https://raw.githubusercontent.com/PhungThien63f/BikeStores/main/images/BikeStore%20-%20%203.png)
 
