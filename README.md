@@ -21,5 +21,3 @@ Data Source: [sqlservertutorial](https://www.sqlservertutorial.net/load-sample-d
 ![markdown](https://raw.githubusercontent.com/PhungThien63f/BikeStores/main/images/BikeStore%20-%20%203.png)
 
 - Buid dashboard with Power BI ![powerbi](https://github.com/PhungThien63f/BikeStores/blob/main/images/BikeStore-4.png)
-
-### 2.3 Next step
