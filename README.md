@@ -9,19 +9,19 @@
 ### 2.2 Project steps
 Data Source: [sqlservertutorial](https://www.sqlservertutorial.net/load-sample-database/)
 
-- Writting query
+### Writting query
 ![markdown](https://raw.githubusercontent.com/PhungThien63f/BikeStores/main/images/BikeStore-1.png)
 
 
-- Exporting file csv
+### Exporting file csv
 ![markdown](https://raw.githubusercontent.com/PhungThien63f/BikeStores/main/images/BikeStore%20-%202.png)
 
 
-- Use the Python language to explore information dataset.
+### Use the Python language to explore information dataset.
   (https://github.com/PhungThien63f/BikeStores/blob/main/BikeStores.ipynb)
 
 
-- Buid dashboard with tableau: [tableaupublic](https://public.tableau.com/app/profile/pham.phung/viz/BikeStores_16863808943840/Dashboard1)
+### Buid dashboard with tableau: [tableaupublic](https://public.tableau.com/app/profile/pham.phung/viz/BikeStores_16863808943840/Dashboard1)
 ![markdown](https://raw.githubusercontent.com/PhungThien63f/BikeStores/main/images/BikeStore%20-%20%203.png)
 
-- Buid dashboard with Power BI ![powerbi](https://github.com/PhungThien63f/BikeStores/blob/main/images/BikeStore-4.png)
+### Buid dashboard with Power BI ![powerbi](https://github.com/PhungThien63f/BikeStores/blob/main/images/BikeStore-4.png)
